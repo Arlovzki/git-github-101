@@ -40,4 +40,5 @@ git reset --soft HEAD~1
 git reset --hard HEAD~1   # discards work
 git revert HEAD
 git reflog
+git blame file
 ```
