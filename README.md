@@ -4,6 +4,8 @@ The hands-on repository for the Git & GitHub 101 workshop. Fork it, clone your f
 break things and undo them, branch, and send a pull request. Every command you need
 is on the workshop site.
 
+Workshop site: https://arloubeloria.com/workshop/git-github-101.html (slides, cheat sheet, resources)
+
 ## The activity
 
 1. **Fork** this repository into your GitHub account.
