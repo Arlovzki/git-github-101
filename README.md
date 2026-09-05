@@ -1,5 +1,5 @@
 # Git & GitHub 101
-SIALANA
+
 The hands-on repository for the Git & GitHub 101 workshop. Fork it, clone your fork,
 break things and undo them, branch, and send a pull request. Every command you need
 is on the workshop site.
